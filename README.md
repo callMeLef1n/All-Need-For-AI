@@ -1,4 +1,4 @@
 # All-Need-For-AI
 
 ## Basic Learn: 
-- [ ]  Numpy 
+- [ ]  01-Linear_Regression   
