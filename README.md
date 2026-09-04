@@ -1,4 +1,3 @@
-حتماً. اینجا **کل README در یک بلاک کد واحد** است؛ مستقیم `Copy → README.md` کن:
 
 ````markdown
 # 🧠 AI Journey — From Zero to AI Engineer
