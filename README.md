@@ -138,12 +138,12 @@ AI Engineering
 
 ## From Scratch
 
-* [ ] Implement Linear Regression using NumPy
-* [ ] Implement MSE
-* [ ] Implement Cost Function
-* [ ] Implement Gradient
-* [ ] Implement Gradient Descent
-* [ ] Implement Prediction
+* [x] Implement Linear Regression using NumPy
+* [x] Implement MSE
+* [x] Implement Cost Function
+* [x] Implement Gradient
+* [x] Implement Gradient Descent
+* [x] Implement Prediction
 
 ## Goal
 
