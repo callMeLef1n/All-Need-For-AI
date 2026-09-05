@@ -124,17 +124,17 @@ AI Engineering
 
 ## Concepts
 
-* [ ] Features
-* [ ] Target
-* [ ] Weights
-* [ ] Bias
-* [ ] Prediction
-* [ ] MSE
-* [ ] Cost Function
-* [ ] Gradient
-* [ ] Gradient Descent
-* [ ] Normal Equation
-* [ ] Multiple Linear Regression
+* [x] Features
+* [x] Target
+* [x] Weights
+* [x] Bias
+* [x] Prediction
+* [x] MSE
+* [x] Cost Function
+* [x] Gradient
+* [x] Gradient Descent
+* [x] Normal Equation
+* [x] Multiple Linear Regression
 
 ## From Scratch
 
